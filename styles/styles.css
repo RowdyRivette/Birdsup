@@ -13,7 +13,7 @@ body
 #main-info
 {
 	float: left;
-	width: 450px;
+	width: 470px;
 	padding-left: 10px;
 }
 
@@ -70,6 +70,7 @@ body
 	color: white;
 	padding: 5px;
 	opacity: 0.4;
+	margin-left:10px;
 }
 
 #content-frame
