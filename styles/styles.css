@@ -46,7 +46,8 @@ body
 
 #banner
 {
-	margin-left:15px;
+	margin: 0;
+	padding: 0;
 }
 
 #sub-navigation
