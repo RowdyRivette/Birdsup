@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg1"
+   sodipodi:docname="hc-nav.svg"
+   viewBox="0 0 150 400"
+   sodipodi:version="0.32"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient859"
+       x2="0.20732"
+       y1="0.50781"
+       x1="-1.0122"
+       y2="0.70311999">
+      <stop
+         id="stop857"
+         style="stop-color:#ffffff;stop-opacity:.5"
+         offset="0" />
+      <stop
+         id="stop858"
+         style="stop-color:#ffffff;stop-opacity:.25"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3402"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32922966,0,0,0.523665,-3.8342716,-5.1661856)"
+       x1="-75.942001"
+       y1="59.153"
+       x2="34.544998"
+       y2="76.848" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3404"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32923381,0,0,0.52362347,-3.8342716,-5.1661856)"
+       x1="-33.389999"
+       y1="142.86"
+       x2="77.098999"
+       y2="160.55" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3406"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32922966,0,0,0.523665,-22.00074,73.114779)"
+       x1="-75.942001"
+       y1="59.153"
+       x2="34.544998"
+       y2="76.848" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3408"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32578745,0.08830485,-0.13982,0.52055858,13.378886,36.53461)"
+       x1="66.794998"
+       y1="78.135002"
+       x2="177.28"
+       y2="95.830002" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3410"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32923381,0,0,0.52362347,-22.00074,73.114779)"
+       x1="-33.389999"
+       y1="142.86"
+       x2="77.098999"
+       y2="160.55" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3412"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32922966,0,0,0.523665,40.425851,128.60508)"
+       x1="-75.942001"
+       y1="59.153"
+       x2="34.544998"
+       y2="76.848" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3414"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32922551,0,0,0.523665,-3.8342716,-5.1661856)"
+       x1="66.794998"
+       y1="78.135002"
+       x2="177.28"
+       y2="95.830002" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient3416"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.32923381,0,0,0.52362347,40.425851,128.60508)"
+       x1="-33.389999"
+       y1="142.86"
+       x2="77.098999"
+       y2="160.55" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="114"
+     pagecolor="#ffffff"
+     inkscape:window-height="886"
+     inkscape:window-maximized="0"
+     inkscape:zoom="1.7475"
+     inkscape:window-x="445"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="svg1"
+     inkscape:cx="75"
+     inkscape:cy="200"
+     inkscape:window-width="1183"
+     inkscape:pageopacity="0.0" />
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Clipart by Nicu Buculei - bee</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path3095"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc"
+     style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.56381059"
+     d="m 125.11062,219.36921 -40.582239,-0.74159 -20.573806,-34.33863 20.009145,-33.60003 40.58247,0.74098 20.57272,34.34136 -20.00829,33.59797 z"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
+  <g
+     id="intro"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <title
+       id="title3373">intro</title>
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,11.647494,-8.4439472)"
+       id="g3205">
+      <path
+         d="M 46.020197,42.998372 20.147941,50.733766 0.18871456,33.226779 6.1021596,7.9843994 31.974831,0.24859018 51.932812,17.755576 46.020197,42.998372 z"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path852" />
+      <path
+         d="m 31.182607,1.7196852 c 0,0 -24.399085,6.3253351 -24.399085,7.4551261 0,1.1293757 -5.6477096,21.6877527 -5.4218344,23.7210447 0,0.9035 16.4917934,16.264257 18.5250854,16.264257 C 11.979896,30.636689 7.6874379,8.0450203 31.182607,1.7180244 z"
+         style="fill:url(#linearGradient3402);fill-rule:evenodd;stroke-width:1pt"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path855" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="29.72695"
+       y="27.415854"
+       id="text3276"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3278"
+         x="29.72695"
+         y="27.415854"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold">Intro</tspan></text>
+  </g>
+  <g
+     id="why-bee"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,54.459002,-32.064289)"
+       id="g3201">
+      <path
+         d="M 60.070961,87.201809 34.199951,94.937203 14.241139,77.431878 20.154584,52.187007 46.028501,44.451613 65.987728,61.96109 60.070961,87.201809 z"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path854" />
+      <path
+         d="m 45.193926,45.547771 c 0,0 -24.400331,6.323675 -24.400331,7.45305 0,1.129376 -5.647709,21.69066 -5.421834,23.721045 0,0.905161 16.491793,16.267994 18.525085,16.267994 C 25.989554,74.463114 21.697511,51.871446 45.193926,45.547771 z"
+         style="fill:url(#linearGradient3404);fill-rule:evenodd;stroke-width:1pt"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path861" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="75.638573"
+       y="44.921722"
+       id="text3250"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3252"
+         x="75.638573"
+         y="44.921722"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold">Why</tspan><tspan
+         id="tspan3254"
+         sodipodi:role="line"
+         x="75.638573"
+         y="56.921722"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold">Bees</tspan></text>
+  </g>
+  <g
+     id="bee-life"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,52.648371,-31.850565)"
+       id="g3197">
+      <path
+         id="path3097"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         d="m 27.853729,121.27934 -25.8722564,7.73539 -19.9592266,-17.50699 5.913445,-25.242376 25.872672,-7.735809 19.95798,17.506986 -5.912614,25.242799 z" />
+      <path
+         id="path3099"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="fill:url(#linearGradient3406);fill-rule:evenodd;stroke-width:1pt"
+         d="m 13.016139,80.00065 c 0,0 -24.399085,6.325335 -24.399085,7.455126 0,1.129376 -5.64771,21.687754 -5.421835,23.721044 0,0.9035 16.49179373,16.26426 18.5250854,16.26426 C -6.186572,108.91765 -10.479031,86.325985 13.016139,79.998989 z" />
+    </g>
+    <text
+       sodipodi:linespacing="100%"
+       id="text3256"
+       y="70.024475"
+       x="32.369347"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="70.024475"
+         x="32.369347"
+         sodipodi:role="line"
+         id="tspan3260">Bee</tspan><tspan
+         id="tspan3264"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="82.024475"
+         x="32.369347"
+         sodipodi:role="line">Life</tspan></text>
+  </g>
+  <g
+     id="start"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <path
+       d="m 90.038313,75.257159 c 0,0 -25.831917,-0.256194 -26.133571,0.866901 C 63.603192,77.246728 52.526377,96.167605 52.204997,98.250272 51.963336,99.15012 64.182483,118.84121 66.195783,119.38681 63.318298,98.853737 65.102096,75.243756 90.038776,75.2555 z"
+       style="fill:url(#linearGradient3408);fill-rule:evenodd;stroke-width:1pt"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path3101" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="78.280968"
+       y="94.796936"
+       id="text3266"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="78.280968"
+         y="94.796936"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="tspan3270">Getting</tspan><tspan
+         id="tspan3274"
+         sodipodi:role="line"
+         x="78.280968"
+         y="106.79694"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold">Started</tspan></text>
+  </g>
+  <g
+     id="product"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,54.671733,-30.2454)"
+       id="g3193">
+      <path
+         id="path3093"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         d="m 41.904493,165.48277 -25.871011,7.7354 -19.9588111,-17.50533 5.9134451,-25.24487 25.873917,-7.73539 19.959226,17.50947 -5.916766,25.24072 z" />
+      <path
+         id="path3103"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="fill:url(#linearGradient3410);fill-rule:evenodd;stroke-width:1pt"
+         d="m 27.027458,123.82874 c 0,0 -24.4003312,6.32367 -24.4003312,7.45305 0,1.12937 -5.6477096,21.69066 -5.4218344,23.72104 0,0.90516 16.4917936,16.26799 18.5250856,16.26799 -7.907292,-18.52674 -12.1993354,-41.11841 11.29708,-47.44208 z" />
+    </g>
+    <text
+       transform="scale(0.85506224,1.1695055)"
+       sodipodi:linespacing="125%"
+       id="text3280"
+       y="109.27719"
+       x="42.899776"
+       style="font-size:10.1680994px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:12.20171928px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="109.27719"
+         x="42.899776"
+         id="tspan3282"
+         sodipodi:role="line">Products</tspan></text>
+  </g>
+  <g
+     id="resrc"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,54.671733,-30.2454)"
+       id="g3171">
+      <path
+         d="m 90.28032,176.76964 -25.872256,7.73539 -19.959227,-17.50698 5.913445,-25.24239 25.872672,-7.7358 19.95798,17.50698 -5.912614,25.2428 z"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3117" />
+      <path
+         d="m 75.44273,135.49095 c 0,0 -24.399085,6.32534 -24.399085,7.45513 0,1.12937 -5.64771,21.68775 -5.421835,23.72104 0,0.9035 16.491794,16.26426 18.525085,16.26426 C 56.240019,164.40795 51.94756,141.81629 75.44273,135.48929 z"
+         style="fill:url(#linearGradient3412);fill-rule:evenodd;stroke-width:1pt"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3119" />
+    </g>
+    <text
+       transform="scale(0.83482306,1.1978586)"
+       sodipodi:linespacing="100%"
+       id="text3284"
+       y="120.4999"
+       x="97.581406"
+       style="font-size:8.34823132px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:10.01787758px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="120.4999"
+         x="97.581406"
+         sodipodi:role="line"
+         id="tspan3288">Addt'l</tspan><tspan
+         id="tspan3292"
+         style="font-size:10.01787758px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="130.51778"
+         x="97.581406"
+         sodipodi:role="line">Resources</tspan></text>
+  </g>
+  <g
+     id="ref"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,-25.159458,116.84129)"
+       id="g3209">
+      <path
+         d="M 93.238072,53.108776 67.366231,60.84417 47.407004,43.338845 53.319619,18.096465 79.19146,10.360656 99.150686,27.867642 93.238072,53.108776 z"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path853" />
+      <path
+         d="m 78.174191,11.659853 c 0,0 -24.397839,6.325335 -24.397839,7.455126 0,1.129376 -5.646879,21.686923 -5.422665,23.72146 0,0.905162 16.492209,16.263842 18.526746,16.263842 C 58.974802,40.577687 54.681513,17.985188 78.174191,11.658192 z"
+         style="fill:url(#linearGradient3414);fill-rule:evenodd;stroke-width:1pt"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path860" />
+    </g>
+    <text
+       transform="scale(0.66600509,1.50149)"
+       sodipodi:linespacing="125%"
+       id="text3294"
+       y="117.87569"
+       x="56.871368"
+       style="font-size:9.13816643px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:10.96579933px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="117.87569"
+         x="56.871368"
+         id="tspan3296"
+         sodipodi:role="line">References</tspan></text>
+  </g>
+  <g
+     id="quiz"
+     inkscape:export-filename="/home/fybeo/Documents/Educational_Reference/development_of_instructional_technology/final-project/hc-nav.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72"
+     transform="matrix(1.4650028,0.06652526,-0.06652526,1.4650028,-4.4044943,36.590357)">
+    <g
+       transform="matrix(0.98955679,0.2682202,-0.26700301,0.99406789,55.060866,-29.0832)"
+       id="g3167">
+      <path
+         d="m 104.33108,220.97307 -25.871007,7.7354 -19.958811,-17.50533 5.913445,-25.24487 25.873917,-7.73539 19.959226,17.50948 -5.91677,25.24071 z"
+         style="fill:#ffc62a;fill-rule:evenodd;stroke:#ff9500;stroke-width:1.03802919"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3113" />
+      <path
+         d="m 89.454049,179.31904 c 0,0 -24.400331,6.32367 -24.400331,7.45305 0,1.12937 -5.64771,21.69066 -5.421835,23.72104 0,0.90516 16.491794,16.268 18.525086,16.268 -7.907292,-18.52675 -12.199335,-41.11842 11.29708,-47.44209 z"
+         style="fill:url(#linearGradient3416);fill-rule:evenodd;stroke-width:1pt"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3123" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3298"
+       y="199.50185"
+       x="82.905151"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         y="199.50185"
+         x="82.905151"
+         id="tspan3300"
+         sodipodi:role="line">Quiz</tspan></text>
+  </g>
+</svg>
